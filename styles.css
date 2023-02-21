@@ -1,0 +1,56 @@
+.rowHead{
+     margin-left: 0px;
+     margin-right: 0px;
+}
+
+.rowFoot{
+     margin-left: 0px;
+     margin-right: 0px;
+}
+
+.Header-Square{
+     border-style: solid;
+     border-color: black;
+     min-height: 200px; 
+     text-align: center;"
+
+}
+.Square {
+     border-style: solid;
+     border-color: black;
+     margin-top: 25px;
+     min-height: 100px; 
+     text-align: center;"
+}
+.big-Square {
+     border-style: solid;
+     border-color: black;
+     margin-top: 25px;
+     min-height: 150px; 
+     text-align: center;"
+}
+
+.small-panel{ 
+     border-style: solid;
+     border-color: black;
+     text-align: center; 
+     height: 50px;
+}
+
+.long-Square{
+
+     margin-top: 25px; 
+     border-style: solid;
+     border-color: black;
+     text-align: center; 
+     height: 50px;
+}
+
+
+.Footer-Square{
+     border-style: solid;
+     border-color: black;
+     margin-top: 25px;
+     min-height: 200px; 
+     text-align: center;
+}
